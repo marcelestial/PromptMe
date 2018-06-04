@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PromptMe</string>
+    <string name="title_activity_character_select">CharacterSelectActivity</string>
+    <string name="title_activity_prompt">PromptActivity</string>
+</resources>
